@@ -1,0 +1,5 @@
+Files with "TTD" were models built with utilities calculated based on TTD methods.
+
+Files with "Chinese" were models built under the perspective of Chinese healthcare system.
+
+Files with "PAP" were models conducted with patient assistance program considered. 
