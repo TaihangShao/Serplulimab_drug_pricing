@@ -30,6 +30,7 @@ Email: cpu_sth@stu.cpu.edu.cn
 <br>
 
 #### A copy of this article can be obtained through the following QR code<br>
-
-
 ![biodrugs-s40259-023-00586-6](https://user-images.githubusercontent.com/101975842/223887115-0ab9bcf4-c999-4a98-bd0e-f59554c2075a.png)
+
+#### Supplementary material can be obtained through the following URL:<br>
+https://link.springer.com/article/10.1007/s40259-023-00586-6#Sec22
