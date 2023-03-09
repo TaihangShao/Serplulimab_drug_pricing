@@ -11,5 +11,8 @@ Taihang Shao<sup>1*</sup>, Mingye Zhao<sup>1*</sup>, Leyi Liang<sup>1</sup>, Wen
 PS: Codes in this repository are used to reproduce this analysis.<br>
 Original data are also provided in this repository.<br>
 
+Journal: BioDrugs
+DOI: https://doi.org/10.1007/s40259-023-00586-6
+
 Any questions or technical consulting:<br>
 Email: cpu_sth@stu.cpu.edu.cn
